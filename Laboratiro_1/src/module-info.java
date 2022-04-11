@@ -1,0 +1,2 @@
+module Laboratiro_1 {
+}
